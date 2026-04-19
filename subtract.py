@@ -1,2 +1,2 @@
 # for tutorial
-10-5
+a=10-5
